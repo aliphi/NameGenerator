@@ -1,2 +1,3 @@
 # NameGenerator
-Name Generator in Touchdesigner
+Author: Ali Phi
+Name Generator in Touchdesigner using Python
